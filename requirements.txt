@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+langchain-anthropic      # ou langchain-openai si LLM_PROVIDER=openai
+pydantic
+scikit-learn             # repli RAG (TF-IDF) sans téléchargement de modèle
+chromadb                 # RAG principal (embeddings + base vectorielle)
+streamlit
+python-dotenv
+pytest
+langchain-groq

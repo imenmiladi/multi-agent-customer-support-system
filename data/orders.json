@@ -1,0 +1,8 @@
+[
+ {"id":"1042","customer_id":"C1","items":["Casque audio"],"amount":85.0,"status":"expédiée","shipped_at":"2026-10-14","delivered_at":null,"already_refunded":false},
+ {"id":"1043","customer_id":"C1","items":["Clavier"],"amount":45.0,"status":"livrée","shipped_at":"2026-10-25","delivered_at":"2026-10-29","already_refunded":false},
+ {"id":"1044","customer_id":"C1","items":["Souris"],"amount":60.0,"status":"livrée","shipped_at":"2026-09-18","delivered_at":"2026-09-20","already_refunded":true},
+ {"id":"1045","customer_id":"C1","items":["Écran 27 pouces"],"amount":150.0,"status":"expédiée","shipped_at":"2026-10-09","delivered_at":null,"already_refunded":false},
+ {"id":"1046","customer_id":"C2","items":["Webcam"],"amount":30.0,"status":"expédiée","shipped_at":"2026-10-20","delivered_at":null,"already_refunded":false},
+ {"id":"1047","customer_id":"C1","items":["Tapis de souris"],"amount":25.0,"status":"livrée","shipped_at":"2026-08-12","delivered_at":"2026-08-15","already_refunded":false}
+]
